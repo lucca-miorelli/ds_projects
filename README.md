@@ -13,7 +13,7 @@ My credentials include a Bachelors in Chemical Engineering from Federal Universi
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucca-miorelli/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@lucca.miorelli)
 
 
 ## Projects:
