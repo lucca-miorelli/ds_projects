@@ -3,7 +3,7 @@
 </p>
 
 # Lucca Miorelli
-<sub>*Data Scientist* at Latos.</sub>
+<sub>*Data Scientist*.</sub>
 
 **As a Data Scientist and Chemical Engineer student I combine analytical skills, ability to work in team environments, and great communication skills. Having spend the last years applying Data Analysis in real world problems in different companies, as well as applying Data Sience and Machine Learning to solve real world problems. I really enojoy to face challenges, which made me develop critical thinking and problem-solving skills, guiding data driven solutions.**
 
