@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Lucca.png" >
+  <img src="lucca_github.png" >
 </p>
 
 # Lucca Miorelli
