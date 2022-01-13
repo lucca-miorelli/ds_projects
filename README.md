@@ -18,6 +18,6 @@ My credentials include a Bachelors in Chemical Engineering from Federal Universi
 
 ## Projects:
 [San Francisco's Airbnb Data Analysis](https://github.com/lucca-miorelli/sf_airbnb/blob/0cc8fe0b756e1272384fbd118c2b441443d93064/%5Bsf_airbnb%5D_data_analysis.ipynb)<br/>
-[COVID-19 Data Analysis](https://github.com/lucca-miorelli/covid_analysis/blob/main/COVID_19_Data_Analysis.ipynb)
+[COVID-19 Data Analysis](https://github.com/lucca-miorelli/covid_analysis)
 
 ---
