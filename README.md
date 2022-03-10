@@ -25,3 +25,5 @@ My credentials include a Bachelors in Chemical Engineering from Federal Universi
 ## Data Engineering Projects
 
 ---
+### Check out my latest articles
+<a target="_blank" href="https://medium.com/@lucca.miorelli/an%C3%A1lise-explorat%C3%B3ria-de-dados-do-airbnb-san-francisco-7ef30fb906cf"><https://raw.githubusercontent.com/lucca-miorelli/sf_airbnb/main/sf_airbnb_lucca.jpeg" alt="Recent Article 0"> 
