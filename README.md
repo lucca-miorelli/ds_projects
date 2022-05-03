@@ -22,6 +22,6 @@ My credentials include a Bachelors in Chemical Engineering from Federal Universi
 
 ## Data Science / Machine Learning Projects
 
-## Data Engineering Projects
-[Monitoring IMDb's Top 1000 Movies with Twitter API](https://github.com/lucca-miorelli/imdb-project)
+## Data Engineering Projects:
+[Monitoring IMDb's Top 1000 Movies with Twitter API](https://github.com/lucca-miorelli/imdb-project)<br/>
 ---
