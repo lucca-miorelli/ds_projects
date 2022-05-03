@@ -17,11 +17,12 @@ My credentials include a Bachelors in Chemical Engineering from Federal Universi
 
 
 ## Data Analysis Projects:
-[San Francisco's Airbnb Data Analysis](https://github.com/lucca-miorelli/sf_airbnb)<br/>
-[COVID-19 Data Analysis](https://github.com/lucca-miorelli/covid_analysis)
+* [San Francisco's Airbnb Data Analysis](https://github.com/lucca-miorelli/sf_airbnb)<br/>
+* [COVID-19 Data Analysis](https://github.com/lucca-miorelli/covid_analysis)
 
 ## Data Science / Machine Learning Projects
+* *To be updated.*
 
 ## Data Engineering Projects:
-[Monitoring IMDb's Top 1000 Movies with Twitter API](https://github.com/lucca-miorelli/imdb-project)<br/>
+* [Monitoring Tweets about IMDb's Top 1000 Movies with Twitter API](https://github.com/lucca-miorelli/imdb-project)<br/>
 ---
